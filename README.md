@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I’m a full-stack developer with experience building responsive web applications from front to back. I work with JavaScript, React, Node.js, APIs, databases, and modern development tools to turn ideas into functional, user-friendly products. I enjoy solving problems, learning new technologies, and creating clean experiences that work reliably behind the scenes and on the screen. I’m currently seeking opportunities where I can contribute, continue growing, and build software that makes a real impact.
+I’m a full-stack developer focused on building responsive front-end experiences and reliable back-end systems that turn ideas into polished products.
 
 * 🌍  I'm based in California
 * 🖥️  See my portfolio at [MyPortfolio](http://jamalferguson.dev)
