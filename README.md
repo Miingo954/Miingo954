@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-End Developer
 --------------------
 
-I’m a front-end developer focused on building responsive front-end experiences and reliable back-end systems that turn ideas into polished products.
+Front-end developer based in Northern California, building responsive, user-focused React experiences and growing toward full-stack development. I bring ideas to life with clean, purposeful code.
 
 * 🌍  I'm based in California
 * 🖥️  See my portfolio at [MyPortfolio](http://jamalferguson.dev)
