@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jamal Ferguson
 =======================================================================================================================================
 
-Full Stack Developer
+Front-End Developer
 --------------------
 
-I’m a full-stack developer focused on building responsive front-end experiences and reliable back-end systems that turn ideas into polished products.
+I’m a front-end developer focused on building responsive front-end experiences and reliable back-end systems that turn ideas into polished products.
 
 * 🌍  I'm based in California
 * 🖥️  See my portfolio at [MyPortfolio](http://jamalferguson.dev)
